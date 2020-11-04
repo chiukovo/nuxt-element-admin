@@ -13,6 +13,4 @@ export default function ({ app, route, store, redirect }) {
   }
 
   //判斷是否token過期
-
-  console.log(adminLoginToken)
 }
